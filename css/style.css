@@ -7,7 +7,7 @@
 
 body {
   height: 100vh;
-  background: url("/files/baile-do-bega.jpg") no-repeat center center / cover;
+  background: url("files/baile-do-bega.jpg") no-repeat center center / cover;
   background-color: #676d8d;
   display: flex;
   align-items: center;
