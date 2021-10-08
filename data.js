@@ -35,5 +35,11 @@ export default [
     artist: "Dj L30 SC",
     cover: "capa-l30sc.png",
     file: "SENTA-NA-MINHA-PIKA-123.mp3"
+  },
+  {
+    title: "SET TOP Funk DJ Bruno Prado - O Magico Dos Beat( DJ L30 SC )",
+    artist: "Dj L30 SC",
+    cover: "capa-l30sc.png",
+    file: "https://cdn.discordapp.com/attachments/860200041092349972/882210414283354184/SET_TOP_Funk_-_DJ_Bruno_Prado_O_Magico_Dos_Beat_DJ_L30_SC.mp3"
   }
 ];
