@@ -3,7 +3,7 @@ export default [
     title:
       "ELA MAMA MAMA, MAMA - MC BIANO DO IMPÉRA + DJ L30 SC ",
     artist: "Dj L30 SC",
-    cover: "ELA MAMA MAMA, MAMA - MC BIANO DO IMPÉRA + DJ L30 SC.png",
+    cover: "ElaMama-capa-l30sc.png",
     file: "ELA MAMA MAMA, MAMA - MC BIANO DO IMPÉRA + DJ L30 SC.mp3"
   },
   {
