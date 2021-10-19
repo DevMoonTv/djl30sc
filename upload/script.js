@@ -1,22 +1,7 @@
-'use strict'
+const actualBtn = document.getElementById('actual-btn');
 
-let photo = document.getElementById('imgPhoto');
-let file = document.getElementById('flImage');
+const fileChosen = document.getElementById('file-chosen');
 
-photo.addEventListener('click', () => {
-    file.click();
-});'use strict'
-
-let photo = document.getElementById('imgPhoto');
-let file = document.getElementById('flImage');
-
-photo.addEventListener('click', () => {
-    file.click();
-});'use strict'
-
-let photo = document.getElementById('imgPhoto');
-let file = document.getElementById('flImage');
-
-photo.addEventListener('click', () => {
-    file.click();
-});
+actualBtn.addEventListener('change', function(){
+  fileChosen.textContent = this.files[0].name
+})
