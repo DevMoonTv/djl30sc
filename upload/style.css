@@ -1,0 +1,34 @@
+/*https://www.flaticon.com/free-icon/camera_685655?term=photo&page=1&position=1&related_item_id=685655*/
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+input[type='file'] {
+    display: none;
+}
+
+.max-width {
+    max-width: 500px;
+    width: 100%;
+}
+
+#imgPhoto {
+    margin-top: 10%;
+    max-width: 300px;
+    width:100%;
+    padding:10px;
+    background-color: #eee;
+    border: 5px solid #ccc;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background .3s;
+}
+
+#imgPhoto:hover{
+    background-color: rgb(180, 180, 180);
+    border: 5px solid #111;
+}
