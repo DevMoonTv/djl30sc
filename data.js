@@ -11,7 +11,7 @@ export default [
       "RADIO DJ DALUA ( DJ L30 SC ) ",
     artist: "Dj L30 SC",
     cover: "capa-l30sc.png",
-    file: "http://143.244.212.81:8000/radio.mp3"
+    file: "143.244.212.81:8000/radio.mp3"
   },
   {
     title:
