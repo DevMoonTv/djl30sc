@@ -11,7 +11,7 @@ export default [
       "RADIO DJ DALUA ( DJ L30 SC ) ",
     artist: "Dj L30 SC",
     cover: "capa-l30sc.png",
-    file: "devmoonice.pls"
+    file: "http://stream.zeno.fm/hxua81s6098uv"
   },
   {
     title:
