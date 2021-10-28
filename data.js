@@ -8,10 +8,10 @@ export default [
   },
   {
     title:
-      "RADIO DJ DALUA ( DJ L30 SC ) ",
+      "GP DA ZL, MC Vitinho Avassalador - Automotivo Embrazante ( DJ L30 SC ) ",
     artist: "Dj L30 SC",
     cover: "capa-l30sc.png",
-    file: "143.244.212.81:8000/radio.mp3"
+    file: "GP DA ZL, MC Vitinho Avassalador - Automotivo Embrazante.mp3"
   },
   {
     title:
